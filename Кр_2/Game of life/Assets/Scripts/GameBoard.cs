@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+// Не ограничивала поле, так веселей, делала по видеоуроку)
+
 public class GameBoard : MonoBehaviour
 {
     [SerializeField] private Tilemap currentState;
