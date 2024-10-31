@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Game of life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8369B5BF-E4B5-8768-3D04-34987ABA9FB8}|Assembly-CSharp.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\game of life\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8369B5BF-E4B5-8768-3D04-34987ABA9FB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8369B5BF-E4B5-8768-3D04-34987ABA9FB8}|Assembly-CSharp.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\game of life\\assets\\scripts\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8369B5BF-E4B5-8768-3D04-34987ABA9FB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Game of life\\Assets\\Scripts\\Pattern.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pattern.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Game of life\\Assets\\Scripts\\Pattern.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:07:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Game of life\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Game of life\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:52:59.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
